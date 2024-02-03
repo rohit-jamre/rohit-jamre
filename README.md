@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Rohi Jamre</h1>
 <h3 align="center">A passionate Web developer from Indore</h3>
-<img align="center"alt="coding gif"width="700"height ="300"src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
+<img align="center"alt="coding gif"width="900"height ="300"src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-jamre&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-jamre" /> </p>
 
